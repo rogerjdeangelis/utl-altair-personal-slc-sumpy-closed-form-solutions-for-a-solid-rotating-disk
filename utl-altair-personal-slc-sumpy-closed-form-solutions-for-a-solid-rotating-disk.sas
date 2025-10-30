@@ -9,6 +9,8 @@ Too long to post on a listsrv, see github
 Github
 https://github.com/rogerjdeangelis/utl-altair-personal-slc-sumpy-closed-form-solutions-for-a-solid-rotating-disk
 
+graphic
+https://github.com/rogerjdeangelis/utl-altair-personal-slc-sumpy-closed-form-solutions-for-a-solid-rotating-disk/blob/main/disk.pdf
 I am over my head with this response. Not sure what kind of rotor the op wanted, but closed form
 solutions do exist along with Python FEA package for rotor stress.
 
