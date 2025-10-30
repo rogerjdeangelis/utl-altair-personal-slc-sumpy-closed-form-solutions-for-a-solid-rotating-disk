@@ -8,6 +8,9 @@ altair-personal-slc-sumpy-closed-form-solutions-for-a-solid-rotating-disk
 
     Too long to post on a listsrv, see github
 
+    graphic
+    https://github.com/rogerjdeangelis/utl-altair-personal-slc-sumpy-closed-form-solutions-for-a-solid-rotating-disk/blob/main/disk.pdf
+
     Github
     https://github.com/rogerjdeangelis/utl-altair-personal-slc-sumpy-closed-form-solutions-for-a-solid-rotating-disk
 
